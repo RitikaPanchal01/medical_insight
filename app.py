@@ -39,7 +39,7 @@ def manage_chat(user_input, response):
     st.session_state.chat_history.append({"user": user_input, "bot": response})
 
 ## Initialize our Streamlit app
-st.set_page_config(page_title="Gemini Health App")
+st.set_page_config(page_title="Medical Health AI")
 
 st.header("Gemini Health App")
 input_prompt = st.text_input("Input Prompt: ", key="input")
