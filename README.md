@@ -79,5 +79,3 @@ Users can engage in a chat with the AI to discuss the analysis or ask additional
 The app maintains a session state to track the chat history and previous responses for a seamless user experience.
 
 ---
-
-Feel free to customize this readme according to your specific needs and additional functionalities!
